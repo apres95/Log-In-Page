@@ -1,6 +1,6 @@
 // array of objects to store existing user data
-body = document.querySelector("body");
-body.style.backgroundImage = "url('../img/questionmark.jpg')"
+// body = document.querySelector("body");
+// body.style.backgroundImage = "url('../img/questionmark.jpg')"
 
 var existingUsers = [
 	{
